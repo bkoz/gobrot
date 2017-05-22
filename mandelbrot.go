@@ -3,7 +3,7 @@ package main
 import (
 	"flag"
 	"fmt"
-	"github.com/esimov/gobrot/palette"
+	"github.com/bkoz/gobrot/palette"
 	"image"
 	"image/color"
 	"image/png"
